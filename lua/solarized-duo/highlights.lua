@@ -32,7 +32,7 @@ function M.build(variant, opts)
     WinSeparator = { fg = v.border, bg = bg },
     Folded       = { fg = v.fg_dim, bg = bg_alt },
     FoldColumn   = { fg = v.gutter, bg = bg },
-    EndOfBuffer  = { fg = bg, bg = bg },
+    EndOfBuffer  = { fg = "bg", bg = "NONE" },
 
     Visual       = { bg = v.bg_sel },
     VisualNOS    = { bg = v.bg_sel },
