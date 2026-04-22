@@ -5,8 +5,6 @@ Two paired Neovim colorschemes:
 - `solarized-darcula` — Solarized accents on a JetBrains Darcula background.
 - `solarized-lightcula` — Solarized Light palette tuned to pair with Darcula.
 
-Includes matching highlights for `lualine`, `bufferline.nvim`, `telescope.nvim`, `fzf-lua`, `snacks.nvim` picker (LazyVim default), `neo-tree`, and `gitsigns`.
-
 ## Install
 
 ### lazy.nvim
