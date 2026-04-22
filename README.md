@@ -39,7 +39,7 @@ vim.cmd.colorscheme("solarized-darcula")
 
 ```lua
 require("solarized-duo").setup({
-  transparent = true, -- clear Normal/SignColumn/LineNr backgrounds
+  transparent = true,
 })
 ```
 
